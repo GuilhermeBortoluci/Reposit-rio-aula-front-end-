@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;    
+}
+
+.imagem-carrosel{
+    height: 500px ;
+    object-fit: cover;
+    object-position: 0 50%;
+}
+
+h1 {
+    margin: 10%;
+    padding: 3%;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+}
+
+p {
+    margin: 5%;
+    line-height: 180%;
+}
+
+.nav li a{
+    margin-left: 30px;
+}
